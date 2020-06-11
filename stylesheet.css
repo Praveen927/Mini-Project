@@ -1,0 +1,153 @@
+#wrapper{ 
+width: 920px; 
+height: 350px; 
+margin: 0 auto; 
+} 
+#home1{ 
+float: left;
+} 
+#home2{ 
+float: right;
+margin-right:auto; 
+}
+.div10{
+float:right;
+margin:15px 20px; 
+}
+table,th,td{
+border:10px groove #B02022;
+border-collapse:collapse;
+font-family:cursive;
+font-size:120%;
+padding:10px;
+color:black;
+background-image:url("https://camo.githubusercontent.com/77d51bed58191a49e5900e72fa45d8ab010b41c4/687474703a2f2f692e696d6775722e636f6d2f494d524c6c39442e706e67");
+background-repeat:no repeat;
+background-size:cover;
+margin:10px 20px;
+}
+.input{
+height:40px;
+width:60%;
+padding:10px;
+transition: width 0.9s ease-in-out;
+border:2px solid black;
+font-family:cursive;
+font-size:80%;
+box-shadow: 0 8px 16px 0 rgba(256,256,256,0.2), 0 6px 20px 0 rgba(250,250,250,0.19);
+border-radius: 8px;
+}
+#div6{
+align:center;
+font-size:180%;
+background-image:url("https://png.pngtree.com/thumb_back/fh260/background/20200303/pngtree-realistic-new-coronavirus-background-image_330741.jpg");
+background-size:contain;
+text-align:center;
+color:white;
+height:50px;
+width:500px;
+margin:auto;
+}
+#div5{
+position:absolute;
+top:20px;
+left:10px;
+filter:invert(100%);
+}
+#div4{
+color:white;
+font-family:Segoe Print;
+font-size:250%;
+position:absolute;
+top:90px;
+left:150px;
+}
+#div3{
+color:white;
+font-family:Segoe Print;
+font-size:300%;
+position:absolute;
+top:20px;
+left:150px;
+}
+.span1{
+height:60px;
+background-color:#B22222;
+color:white;
+font-size:220%;
+text-align:left;
+padding:10px 0px 10px 20px;
+}
+header{
+height:250px;
+background-image:url("https://g.foolcdn.com/editorial/images/563647/coronavirus-in-red-background.jpg"),linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5));
+background-position:center;
+background-size:cover;
+transition:1s ease;
+color:white;
+}
+footer{
+background-image:url("https://www.southuniversity.edu/-/media/images/south/blog-and-news/background-coronavirus-1600x500.jpg?h=500&w=1600&hash=5307B083318730E3A9016EE365829F47"), linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5));
+background-position:center;
+background-size:cover;
+clear:both;
+}
+#div1{
+position:absolute;
+top:20px;
+left:20px;
+}
+div{
+color:black;
+font-size:120%;
+font-family:Comic Sans MS;
+padding:10px 120px 10px 120px;
+}
+h1{
+font-family:Georgia;
+color:black;
+}
+nav{
+position:absolute;
+right:50px;
+top:175px;
+font-size:200%;
+transition:1s ease;
+}
+#GFG{
+text-decoration:none;
+}
+span{
+color:white;
+font-family:Comic Sans MS;
+text-align:right;
+}
+.center {
+display: block;
+margin-left: auto;
+margin-right: auto;
+}
+button{
+color:black;
+background-color:white;
+font-size:90%;
+border:2px solid black;
+font-family:Comic Sans MS;
+box-shadow: 0 8px 16px 0 rgba(256,256,256,0.2), 0 6px 20px 0 rgba(250,250,250,0.19);
+border-radius: 8px;
+}
+.div7{
+font-size:120%;
+margin:100px 200px;
+background-image:url("https://static.vecteezy.com/system/resources/thumbnails/000/600/523/small/BG57.jpg");
+border:10px inset;
+background-repeat:no repeat;
+background-size:cover;
+}
+.div8{
+color:white;
+}
+.div9{
+font-size:500%;
+margin:20px;
+}
